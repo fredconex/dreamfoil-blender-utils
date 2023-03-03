@@ -5,7 +5,7 @@ bl_info = {
     "name": "Dreamfoil Utils: X-Plane",
     "description": "Some utilities for X-Plane",
     "author": "Alfredo Fernandes, Dreamfoil Creations",
-    "version": (1, 1, 8),
+    "version": (0, 1, 8),
     "blender": (2, 80, 0),
     "warning": "",
     "category": "Object",

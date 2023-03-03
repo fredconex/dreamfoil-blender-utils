@@ -8,4 +8,4 @@ Dataref Replace
 
 Dataref Animations
 - Export datarefs used as a .txt
-- Enable/Disable specific datarefs animations
+- Enable/Disable specific animations by dataref
